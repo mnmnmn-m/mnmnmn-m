@@ -1,2 +1,1 @@
-- 👋 Take a look -> https://solved.ac/profile/mnmnmnm
-- 안녕하세요!
+-안녕하세요!
